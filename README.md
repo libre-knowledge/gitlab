@@ -12,15 +12,6 @@
 * [GitLab Pages](https://gitlab.com/libre-knowledge/gitlab-pages)  
   自 GitLab 專案創建基於靜態網頁與靜態網站產生器(static site generator)的網站服務
 
-## 參考資料
-
-以下列舉撰寫本主題內容時所參考的第三方資源：
-
-* [The most-comprehensive AI-powered DevSecOps platform | GitLab](https://about.gitlab.com/)  
-  產品官方網站
-* [GitLab Documentation](https://docs.gitlab.com/)  
-  官方說明文件網站
-
 <!--
 ## 基本概念
 
@@ -35,6 +26,15 @@
 （待補）
 
 -->
+
+## 參考資料
+
+以下列舉撰寫本主題內容時所參考的第三方資源：
+
+* [The most-comprehensive AI-powered DevSecOps platform | GitLab](https://about.gitlab.com/)  
+  產品官方網站
+* [GitLab Documentation](https://docs.gitlab.com/)  
+  官方說明文件網站
 
 ---
 
