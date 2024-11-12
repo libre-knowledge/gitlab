@@ -1,0 +1,5 @@
+# The GitLabBrandGuidelines pseudo-license
+
+Assets declared under this pseudo-license are property of GitLab, Inc. and are used according to the GitLab Brand Guidelines[1].
+
+[1]: https://design.gitlab.com/brand-overview/introduction
