@@ -14,16 +14,17 @@
 * [GitLab Pages](https://gitlab.com/libre-knowledge/gitlab-pages)  
   自 GitLab 專案創建基於靜態網頁與靜態網站產生器(static site generator)的網站服務
 
+## 解決方案
+
+以下列舉本主題相關的解決方案：
+
+* [GitLab Github Mirror Repo](https://gitlab.com/lmoz25/gitlab-github-mirror-repo)  
+  自動創建 GitLab 與 GitHub 專案並配置 GitLab 至 GitHub 的推送鏡像功能
+
 <!--
 ## 基本概念
 
 以下列舉本主題相關的基本概念說明資源：
-
-（待補）
-
-## 解決方案
-
-以下列舉本主題相關的解決方案：
 
 （待補）
 
