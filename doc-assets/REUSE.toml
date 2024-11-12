@@ -20,7 +20,7 @@ SPDX-License-Identifier = 'CC-BY-SA-4.0+'
 
 [[annotations]]
 path = [
-    "core-logo.svg",
+    "core-logo*.*",
     "logomark.png"
 ]
 SPDX-FileCopyrightText = '2024 GitLab, Inc. <https://gitlab.com/>'

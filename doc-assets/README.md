@@ -16,6 +16,14 @@ The following are the assets featured in this directory:
 
 [GitLab logos RGB | GitLab Logos and Brand Assets | GitLab](https://about.gitlab.com/press/press-kit/#logos-rgb)
 
+### GitLab core logo(white background)
+
+![GitLab core logo(white background)](core-logo-white-background.jpg "GitLab core logo\(white background\)")
+
+#### Source
+
+[GitLab logos RGB | GitLab Logos and Brand Assets | GitLab](https://about.gitlab.com/press/press-kit/#logos-rgb)
+
 ### GitLab logomark
 
 ![GitLab logomark](logomark.png "GitLab logomark")
