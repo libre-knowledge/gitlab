@@ -15,3 +15,7 @@
 	path = GitLab Github Mirror Repo：自動創建 GitLab 與 GitHub 專案並配置 GitLab 至 GitHub 的推送鏡像功能
 	url = https://gitlab.com/lmoz25/gitlab-github-mirror-repo.git
 	ignore = dirty
+[submodule "gitlab-runner-docker-compose"]
+	path = gitlab-runner-docker-compose
+	url = https://gitlab.com/TyIsI/gitlab-runner-docker-compose.git
+	ignore = dirty

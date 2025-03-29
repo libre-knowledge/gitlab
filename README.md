@@ -20,6 +20,8 @@
 
 * [GitLab Github Mirror Repo](https://gitlab.com/lmoz25/gitlab-github-mirror-repo)  
   自動創建 GitLab 與 GitHub 專案並配置 GitLab 至 GitHub 的推送鏡像功能
+* [gitlab-runner-docker-compose](https://gitlab.com/TyIsI/gitlab-runner-docker-compose)  
+  A Docker Compose file for GitLab Runner.
 
 <!--
 ## 基本概念
