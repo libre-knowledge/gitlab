@@ -22,6 +22,8 @@
   自動創建 GitLab 與 GitHub 專案並配置 GitLab 至 GitHub 的推送鏡像功能
 * [gitlab-runner-docker-compose](https://gitlab.com/TyIsI/gitlab-runner-docker-compose)  
   A Docker Compose file for GitLab Runner.
+* （開發中）[Container deployment of GitLab Runner](https://gitlab.com/brlin/gitlab-runner-container)  
+  快速地部署符合需求的 GitLab Runner 服務。
 
 <!--
 ## 基本概念
