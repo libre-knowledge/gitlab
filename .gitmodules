@@ -23,3 +23,7 @@
 	path = Container deployment of GitLab Runner
 	url = https://gitlab.com/brlin/gitlab-runner-container.git
 	ignore = dirty
+[submodule "gitlab2github-push-mirror-utils"]
+	path = gitlab2github-push-mirror-utils
+	url = https://gitlab.com/brlin/gitlab2github-push-mirror-utils.git
+	ignore = dirty
